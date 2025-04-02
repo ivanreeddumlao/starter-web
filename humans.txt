@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ivan Dumlao		dumlao.101137@ortigas-cainta.sti.edu.ph		ivanreeddumlao
 
 # THANKS
 
